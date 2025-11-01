@@ -5,7 +5,7 @@
             посадки в бриг[/head]
  
 [head=2][bold]Заключенный[/bold][/head]
-[bold]Имя:[/bold] [form]
+[bold]Имя и фамилия:[/bold] [form]
 [bold]Звание:[/bold] [form]
 [bold]Должность:[/bold] [form]
  [head=3]

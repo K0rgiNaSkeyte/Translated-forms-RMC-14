@@ -4,26 +4,26 @@
                     [head=1][color=#287015]Список разведки[/color][/head]
                                         
 [bold][color=#287015]Офицер(-ы) разведки:[/bold][/color]
-    [bold]Имя:[/bold] [color=#72856d][italic][form][/italic][/color]
+    [bold]Имя и фамилия:[/bold] [color=#72856d][italic][form][/italic][/color]
     [bold]Ответственность:[/bold] [color=#72856d][italic](Сбор информации ИЛИ Разведывательный надзор)[/italic][/color]
     [bold]Огневая группа [color=#AAAAAA][italic](если возможно)[/italic][/color]:[/bold] [color=#72856d][italic][form][/italic][/color]
         [bold]Члены огневой группы:[/bold]
             [bullet] [color=#72856d][italic][form][/italic][/color]
                                       ---
-    [bold]Имя:[/bold] [color=#72856d][italic][form][/italic][/color]
+    [bold]Имя и фамилия:[/bold] [color=#72856d][italic][form][/italic][/color]
     [bold]Ответственность:[/bold] [color=#72856d][italic](Сбор информации ИЛИ Разведывательный надзор)[/italic][/color]
     [bold]Огневая группа [color=#AAAAAA][italic](если возможно)[/italic][/color]:[/bold] [color=#72856d][italic][form][/italic][/color]
         [bold]Члены огневой группы:[/bold]
             [bullet] [color=#72856d][italic][form][/italic][/color]
                                       ---
-    [bold]Имя:[/bold] [color=#72856d][italic][form][/italic][/color]
+    [bold]Имя и фамилия:[/bold] [color=#72856d][italic][form][/italic][/color]
     [bold]Ответственность:[/bold] [color=#72856d][italic](Сбор информации ИЛИ Разведывательный надзор)[/italic][/color]
     [bold]Огневая группа [color=#AAAAAA][italic](если возможно)[/italic][/color]:[/bold] [color=#72856d][italic][form][/italic][/color]
         [bold]Члены огневой группы:[/bold]
             [bullet] [color=#72856d][italic][form][/italic][/color]
                                       ---
 [bold][color=#287015]Персонал поддержки[/color][/bold]
-    [bold]Имя:[/bold] [color=#72856d][italic][form][/italic][/color]
+    [bold]Имя и фамилия:[/bold] [color=#72856d][italic][form][/italic][/color]
     [bold]Ответственность:[/bold] [color=#72856d][italic](Сортировка/Надзор)[/italic][/color]
  
                                       ---

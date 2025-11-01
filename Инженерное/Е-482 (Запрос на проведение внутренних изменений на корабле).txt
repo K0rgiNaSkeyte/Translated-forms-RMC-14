@@ -5,7 +5,7 @@
                  изменений на корабле[/color][/head]
 
 [bold]Запрашиваемое лицо:[/bold]
-[bold]Имя: [/bold][form]
+[bold]Имя и фамилия: [/bold][form]
 [bold]Звание: [/bold][form]
 [bold]Должность: [/bold][form]
 

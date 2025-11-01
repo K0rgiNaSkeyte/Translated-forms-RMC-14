@@ -6,7 +6,7 @@
                                                [color=#383838]✧✧✦✧✧[/color]
        [bolditalic]В СООТВЕТСТВИИ С МОРСКИМ ПРАВОМ КМП США[/bolditalic]
 [color=#134975]‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾[/color]
-[bold][color=#134975]Имя:[/color][/bold] [form]
+[bold][color=#134975]Имя и фамилия:[/color][/bold] [form]
 [bold][color=#134975]Звание:[/color][/bold] [form]	
 [bold][color=#134975]Отряд:[/color][/bold] [form]
 [bold]Заявление подателя апелляции:[/bold] 

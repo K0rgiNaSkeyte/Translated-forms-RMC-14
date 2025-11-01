@@ -4,7 +4,7 @@
 [head=1][color=#cb0000]           Доклад об аресте[/color][/head]
 
 [italic][bold][color=#134975]‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾[/color][/bold][/italic]
-[color=#134975][bold]Имя арестованного:[/bold][/color] [form]
+[color=#134975][bold]Имя и фамилия арестованного:[/bold][/color] [form]
 [color=#134975][bold]Описание:[/bold][/color] [form]
 
 [color=#134975]Арестованный считается ([italic]Отметьте знаком[/italic] ✔ [italic]в зависимости от обстоятельств[/italic]):[/color]

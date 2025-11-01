@@ -8,7 +8,7 @@
 [color=#f39f27]▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬[/color]
 [bold]ДЕТАЛИ:[/bold]
 
-[bold]Имя:[/bold] [form]
+[bold]Имя и фамилия:[/bold] [form]
 [bold]Звание:[/bold] [form]
 [bold]Должность:[/bold] [form]
 [bold]Отряд:[/bold] [form]

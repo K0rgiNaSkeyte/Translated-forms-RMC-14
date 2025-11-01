@@ -4,7 +4,7 @@
      [head=1]Форма запроса на оружие[/head]
 
 [head=2][bold]Запрашивающий персонал[/bold][/head]
-[bold]Имя:[/bold] [form]
+[bold]Имя и фамилия:[/bold] [form]
 [bold]Звание:[/bold] [form]
 [bold]Должность:[/bold] [form]
 

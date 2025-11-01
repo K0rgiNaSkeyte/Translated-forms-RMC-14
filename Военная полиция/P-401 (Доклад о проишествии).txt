@@ -4,7 +4,7 @@
           [head=1]Доклад о происшествии[/head]
 [italic][bold][color=#134975]▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬[/color][/bold][/italic]
 [color=#1b67a5][head=3]Информация о доложившем[/head][/color]
-[bold]Имя: [/bold][form]
+[bold]Имя и фамилия: [/bold][form]
 [bold]Звание: [/bold][form]
 [bold]Должность: [/bold][form]
 
