@@ -1,0 +1,10 @@
+[color=#dfc189][head=1]Отчёт о погибших[/head][/color]
+[color=#ff0000][bold]Альфа[/bold][/color]
+[bullet]Погибло:
+[color=#f39f27][bold]Браво[/color][/bold]
+[bullet]Погибло:
+[color=#c96dbf][bold]Чарли[/color][/bold]
+[bullet]Погибло:
+[color=#1b67a5][bold]Дельта[/color][/bold]
+[bullet]Погибло:
+[color=#dfc189][head=2]Потери:[/color] [color=#ff0000]#[/color][/head]

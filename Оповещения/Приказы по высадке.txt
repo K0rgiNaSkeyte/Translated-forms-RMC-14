@@ -1,0 +1,9 @@
+[head=2][color=goldenrod]Приказы по высадке[/head][/color]
+[color=#A9CFF2][italic]‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾[/italic][/color]
+[color=red][bold]Альфа - [/bold] движение вперед [/color]
+[color=orange][bold]Браво - [/bold] Устанавливайте, защищайте и обслуживайте ФОБ.[/color]
+[color=royalblue][bold]Дельта - [/bold] Восстановите энергию и затем двигайтесь к[/color]
+[color=darkorchid][bold]Чарли - [/bold] защищенная связь[/color]
+
+Основная Зона Посадки [color=teal]ЗП ЗДЕСЬ[/color]
+[color=goldenrod]
