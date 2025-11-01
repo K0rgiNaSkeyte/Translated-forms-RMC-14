@@ -1,0 +1,8 @@
+[color=steelblue] ╔═╗╔═╗╔╗╔[/color]                              Сол Ньюс Нетворк
+[color=steelblue] ╚═╗╚═╗║║║[/color]                              Корреспондент: [form]
+[color=steelblue] ╚═╝╚═╝╝╚╝[/color]
+
+[color=steelblue][italic]▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀[/italic][/color]
+  [head=3]ЗАГОЛОВОК ЗДЕСЬ - ОБЯЗАТЕЛЬНО ПО ЦЕНТРУ[/head]
+[color=steelblue][italic]▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀[/italic][/color]
+Напишите ваши новости здесь!

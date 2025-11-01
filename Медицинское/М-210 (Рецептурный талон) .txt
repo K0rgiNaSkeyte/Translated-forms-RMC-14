@@ -1,0 +1,28 @@
+[color=#58B38B]█[/color][color=#ffffff]░░[/color][color=#5B97BC]█ [color=#58B38B]█▄[/color] █[/color] [head=3]К[/head][bold]орпус [head=3]М[/head]орской [head=3]П[/head]ехоты[/bold]     [bold]Форма:  [/bold][color=#ff0000]M-210[/color]
+[color=#5B97BC]▀▄▄[color=#58B38B]▀[/color] █[/color] [color=#58B38B]▀█[/color] [color=#AAAAAA][italic]КСША "Алмайер"; 4-ая рота "Падающие Соколы"[/color][/italic]
+[color=#58B38B]▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀[/color]
+            [head=1][color=#5B97BC]Рецептурный талон[/color][/head]
+
+[head=3][color=#1b67a5]Информация о пациенте[/color][/head]
+[bold]Имя и фамилия пациента:[/bold] [form]
+[color=gray][italic]Если пациент зачислен в КМП США:[/italic][/color]
+[bold]Звание:[/bold]
+[form]
+[bold]Должность:[/bold]
+[form]
+[bold]Отряд:[/bold] [form]
+[bold]Предшествующее лечение:[/bold] [form]
+[bold]Симптомы/Травмы:[/bold] [form]
+
+[head=3][color=#1b67a5]Предписанное лекарство[/color][/head]
+[bold]Лечение:[/bold] [form]
+[bold]Дозы:[/bold] [form] [italic]Example: 15u[/italic]
+[bold]Количество:[/bold] [form] [italic]Example: 18 pills[/italic]
+[bold]Частота:[/bold] [form]
+
+
+[bold]Выдано,[/bold]
+[bolditalic][color=#1b67a5][signature][/color][/bolditalic][/italic]
+[color=#134975]▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬[/color]
+Подлинность этого документа и его содержания подтверждается с помощью надлежащим образом проставленной печати.
+[color=#E41B1B]Использование данного документа в нарушение Военного Закона КМП и политики КМП США является нарушением федерального закона и приведет к судебному преследованию.[/color][/italic]

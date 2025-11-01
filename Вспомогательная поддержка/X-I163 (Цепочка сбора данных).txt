@@ -1,0 +1,35 @@
+[color=#287015]█[/color][color=#ffffff]░░[/color][color=#383838]█ [color=#287015]█▄[/color] █[/color] [head=3]К[/head][bold]орпус [head=3]М[/head]орской [head=3]П[/head]ехоты[/bold]     [bold]Форма:  [/bold][color=#ff0000]X-I63[/color]
+[color=#383838]▀▄▄[color=#287015]▀[/color] █[/color] [color=#287015]▀█[/color] [color=#AAAAAA][italic]КСША "Алмайер"; 4-ая рота "Падающие Соколы"[/color][/italic]
+[color=#383838]▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀[/color]
+           [head=1][color=#287015]Цепочка сбора данных[/color][/head]
+                                        
+[bold]Тип документа/устройства:[/bold] [italic][form][/italic]
+[bold]Название предмета:[/bold] [color=#ff0000][italic][form][/italic][/color]
+[bold]Серийный номер предмета[color=#AAAAAA][italic] (если возможно)[/italic][/color]:[/bold] [color=#ff0000][italic][form][/italic][/color]
+[bold]Получен из:[/bold] [color=#75946d][italic][form][/italic][/color]
+[bold]Получен кем:[/bold] [color=#72856d][italic][form][/italic][/color]
+[bold]Дата:[/bold] [italic][form] [/italic]
+[bold]Время:[/bold] [italic][form][/italic]
+
+[italic][bold][color=#287015]‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾[/color][/bold][/italic]
+[bold]Дата сбора:[/bold] [italic][form][/italic]
+[bold]Время сбора:[/bold] [italic][form][/italic]
+[bold]Кем собрано:[/bold] [color=#75946d][italic][form][/italic][/color]
+[bold]Описание предмета:[/bold]
+    [bullet] [italic][form][/italic]
+
+[bold]Место, где было найдено:[/bold]
+    [bullet] [italic][form][/italic]
+
+[bold]Дополнительные комментарии:[/bold]
+    [bullet] [italic][form][/italic]
+
+[italic][bold][color=#287015]‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾[/color][/bold][/italic]
+[bold]Утверждено,[/bold]
+[bolditalic][signature][/bolditalic]
+
+[color=#AAAAAA]===================================================
+[bullet][italic]Неточное заполнение этого документа может привести к нарушению целостности собранных разведывательных данных, что сделает их ненадежными для оперативного использования.[/italic]
+[bullet][italic]Несоблюдение Политики сбора разведывательных данных UNCONC X-I406 представляет собой нарушение военных уставов и может привести к дисциплинарным взысканиям или судебному преследованию в соответствии с применимым законодательством.[/italic][/color]
+[color=#AAAAAA]===================================================[/color]
+[italic][color=#E41B1B]Использование данного документа в нарушение Военного Закона КМП и политики КМП США MIL-891 является нарушением федерального закона и приведет к судебному преследованию[/color][/italic]

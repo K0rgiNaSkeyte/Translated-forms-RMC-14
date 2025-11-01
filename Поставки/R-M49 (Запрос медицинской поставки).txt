@@ -1,0 +1,30 @@
+[color=#b18644]█[/color][color=#ffffff]░░[/color][color=#abb089]█ [color=#b18644]█▄[/color] █[/color] [head=3]К[/head][bold]орпус [head=3]М[/head]орской [head=3]П[/head]ехоты[/bold]      [bold]Форма:  [/bold][color=#ff0000]R-M49[/color]
+[color=#abb089]▀▄▄[color=#b18644]▀[/color] █[/color] [color=#b18644]▀█[/color] [color=#AAAAAA][italic]КСША "Алмайер"; 4-ая рота "Падающие Соколы"[/color][/italic]
+[color=#b18644]▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀[/color]
+                   [head=1][color=#b18644]Запрос медицинской
+                            поставки[/color][/head]
+
+[bold]Запрошенный(-ые) предмет(-ы):[/bold]
+[bullet] [form]
+[bullet] [form]
+[bullet] [form]
+[bullet] [form]
+[bullet] [form]
+[bullet] [form]
+[bullet] [form]
+[bullet] [form]
+[bullet] [form]
+
+[bold]Причина для запроса:[/bold]
+[italic][form][/italic]
+[color=#b18644]_________________________________________________________________[/color]
+[italic][bullet]I certify that all requested equipment is essential to  the operation. 
+[bullet]I understand that chemicals and other medical supplies are sensitive and should be handled with utmost care.[/italic]
+
+[bold]Запрошено,[/bold]
+       [italic][signature][/italic]
+
+[bold]Утверждено,[/bold]
+       [italic][signature][/italic]
+[italic][bold][color=#134975]_________________________________________________________________[/color][/bold][/italic]
+[italic][color=#E41B1B]Использование данного документа в нарушение Военного Закона КМП и политики КМП США MIL-891 является нарушением федерального закона и приведет к судебному преследованию.[/color][/italic]

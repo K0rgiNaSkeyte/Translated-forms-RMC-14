@@ -1,0 +1,27 @@
+[color=#f39f27]█[/color][color=#ffffff]░░[/color][color=#a57022]█ [color=#f39f27]█▄[/color] █[/color] [head=3]К[/head][bold]орпус [head=3]М[/head]орской [head=3]П[/head]ехоты[/bold]     [bold]Форма:  [/bold][color=#ff0000]E-465[/color]
+[color=#a57022]▀▄▄[color=#f39f27]▀[/color] █[/color] [color=#f39f27]▀█[/color] [color=#AAAAAA][italic]КСША "Алмайер"; 4-ая рота "Падающие Соколы"[/color][/italic]
+[color=#f39f27]▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀[/color]
+         [head=1][color=#1b67a5]Отчёт об использовании 
+   Орбитальной Артиллерии[/color][/head]
+[italic][bold][color=#134975]‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾[/color][/bold][/italic]
+[head=3]Первая боеголовка[/head]
+[bullet][bold]Тип: [form][/bold]
+[bullet][bold]Время помещения в Орбитальную Артиллерию: [form][/bold]
+[bullet][bold]Кем загружено: [form][/bold]
+[bullet][bold]Время выстрела: [form][/bold]
+
+[head=3]Вторая боеголовка[/head]
+[bullet][bold]Тип: [form][/bold]
+[bullet][bold]Время помещения в Орбитальную Артиллерию: [form][/bold]
+[bullet][bold]Кем загружено: [form][/bold]
+[bullet][bold]Время выстрела: [form][/bold]
+
+[head=3]Третья боеголовка[/head]
+[bullet][bold]Тип: [form][/bold]
+[bullet][bold]Время помещения в Орбитальную Артиллерию: [form][/bold]
+[bullet][bold]Кем загружено: [form][/bold]
+[bullet][bold]Время выстрела: [form][/bold]
+
+[color=#AAAAAA]===================================================[/color]
+[italic][color=#E41B1B]Использование данного документа в нарушение Военного Закона КМП и политики КМП США MIL-891 является нарушением федерального закона и приведет к судебному преследованию.[/color][/italic]
+

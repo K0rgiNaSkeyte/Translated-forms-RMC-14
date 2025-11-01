@@ -1,0 +1,105 @@
+Форма/Отчёты Вестон-Ямада 
+[color=#383838]▄[/color][color=#ffffff]░░░[/color][color=#383838]▄[/color]                                                                               [bold]Форма: [/bold][color=#ff0000]435[/color]
+[color=#eb7a23]█[/color][color=#383838]▀[/color][color=#eb7a23]▄[/color][color=#383838]▀[/color][color=#eb7a23]█[/color]  [head=1]Вестон-Ямада[/head]   
+[color=#ffffff]░[/color][color=#eb7a23]█[/color][color=#383838]░[/color][color=#eb7a23]█[/color]      [head=3]Название документа[/head]
+[color=#383838]▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄[/color]
+[color=#eb7a23]▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀[/color]
+
+Вестон-Ямада слоган
+[color=#383838]▄[/color][color=#ffffff]░░░[/color][color=#383838]▄[/color]                                                                          [bold]Форма: [/bold][color=#ff0000]CL-563[/color] 
+[color=#eb7a23]█[/color][color=#383838]▀[/color][color=#eb7a23]▄[/color][color=#383838]▀[/color][color=#eb7a23]█[/color]  [head=1]Вестон-Ямада[/head]   
+[color=#ffffff]░[/color][color=#eb7a23]█[/color][color=#383838]░[/color][color=#eb7a23]█[/color]     [head=3][italic]Будущее уже наступило[/italic][/head]
+[color=#383838]▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄[/color]
+[color=#eb7a23]▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀[/color]
+
+Общий КМП США
+[color=#bbaea9]█[/color][color=#ffffff]░░[/color][color=#5f698a]█ [color=#bbaea9]█▄[/color] █[/color] [head=3]К[/head][bold]орпус [head=3]М[/head]орской [head=3]П[/head]ехоты[/bold]       [bold]Форма:  [/bold][color=#ff0000]XXX[/color]
+[color=#5f698a]▀▄▄[color=#bbaea9]▀[/color] █[/color] [color=#bbaea9]▀█[/color] [color=#AAAAAA][italic]КСША "Алмайер"; 4-ая рота "Падающие Соколы"[/color][/italic]
+[color=#6e6e6e]▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀[/color]
+[head=1]Название документа[/head]
+
+Командование КМП США
+[color=#1b67a5]█[/color][color=#ffffff]░░[/color][color=#383838]█ [color=#1b67a5]█▄[/color] █[/color] [head=3]К[/head][bold]орпус [head=3]М[/head]орской [head=3]П[/head]ехоты[/bold]       [bold]Форма:  [/bold][color=#ff0000]C-XXX[/color]
+[color=#383838]▀▄▄[color=#1b67a5]▀[/color] █[/color] [color=#1b67a5]▀█[/color] [color=#AAAAAA][italic]КСША "Алмайер"; 4-ая рота "Падающие Соколы"[/color][/italic]
+[color=#383838]▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄[/color]
+[color=#1b67a5]▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀[/color]
+
+ВП КМП США
+[color=#8c0000]█[/color][color=#ffffff]░░[/color][color=#383838]█ [color=#8c0000]█▄[/color] █ [/color][head=3]К[/head][bold]орпус [head=3]М[/head]орской [head=3]П[/head]ехоты[/bold]     [bold]Форма:  [/bold][color=#ff0000]P-XXX[/color]
+[color=#383838]▀▄▄[color=#8c0000]▀[/color] █[/color] [color=#8c0000]▀█[/color] [color=#AAAAAA][italic]КСША "Алмайер"; 4-ая рота "Падающие Соколы"[/color][/italic]
+[color=#8c0000]▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀[/color]
+[color=#383838][head=1]Название документа[/head][/color]
+
+Ордер ВП КМП США 
+[color=#8c0000]█[/color][color=#ffffff]░░[/color][color=#383838]█ [color=#8c0000]█▄[/color] █ [/color][head=3]К[/head][bold]орпус [head=3]М[/head]орской [head=3]П[/head]ехоты[/bold]    [bold]Ордер №[/bold][color=#ff0000]XX[/color]
+[color=#383838]▀▄▄[color=#8c0000]▀[/color] █[/color] [color=#8c0000]▀█[/color] [color=#AAAAAA][italic]КСША "Алмайер"; 4-ая рота "Падающие Соколы"[/color][/italic] 
+[color=#8c0000]▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄[/color]
+[color=#383838]▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀[/color]
+
+Разведка КМП США
+[color=#287015]█[/color][color=#ffffff]░░[/color][color=#383838]█ [color=#287015]█▄[/color] █[/color] [head=3]К[/head][bold]орпус [head=3]М[/head]орской [head=3]П[/head]ехоты[/bold]     [bold]Форма:  [/bold][color=#ff0000]X-IXX[/color]
+[color=#383838]▀▄▄[color=#287015]▀[/color] █[/color] [color=#287015]▀█[/color] [color=#AAAAAA][italic]КСША "Алмайер"; 4-ая рота "Падающие Соколы"[/color][/italic]
+[color=#383838]▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀[/color]
+[head=1][color=#287015]Название документа[/color][/head]
+
+Карго КМП США
+[color=#b18644]█[/color][color=#ffffff]░░[/color][color=#abb089]█ [color=#b18644]█▄[/color] █[/color] [head=3]К[/head][bold]орпус [head=3]М[/head]орской [head=3]П[/head]ехоты[/bold]      [bold]Форма:  [/bold][color=#ff0000]R-XXX[/color]
+[color=#abb089]▀▄▄[color=#b18644]▀[/color] █[/color] [color=#b18644]▀█[/color] [color=#AAAAAA][italic]КСША "Алмайер"; 4-ая рота "Падающие Соколы"[/color][/italic]
+[color=#b18644]▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀[/color]
+[head=1][color=#b18644]Название документа[/color][/head]
+
+Инженерный КМП США
+[color=#f39f27]█[/color][color=#ffffff]░░[/color][color=#a57022]█ [color=#f39f27]█▄[/color] █[/color] [head=3]К[/head][bold]орпус [head=3]М[/head]орской [head=3]П[/head]ехоты[/bold]     [bold]Форма:  [/bold][color=#ff0000]E-XXX[/color]
+[color=#a57022]▀▄▄[color=#f39f27]▀[/color] █[/color] [color=#f39f27]▀█[/color] [color=#AAAAAA][italic]КСША "Алмайер"; 4-ая рота "Падающие Соколы"[/color][/italic]
+[color=#f39f27]▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀[/color]
+[head=1][color=#a57022]Название документа[/color][/head]
+
+Медицинский КМП США
+[color=#58B38B]█[/color][color=#ffffff]░░[/color][color=#5B97BC]█ [color=#58B38B]█▄[/color] █[/color] [head=3]К[/head][bold]орпус [head=3]М[/head]орской [head=3]П[/head]ехоты[/bold]    [bold]Форма:  [/bold][color=#ff0000]M-XXX[/color]
+[color=#5B97BC]▀▄▄[color=#58B38B]▀[/color] █[/color] [color=#58B38B]▀█[/color] [color=#AAAAAA][italic]КСША "Алмайер"; 4-ая рота "Падающие Соколы"[/color][/italic]
+[color=#58B38B]▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀[/color]
+[head=1][color=#5B97BC]Название документа[/color][/head]
+
+Простое
+█░░█ █▄ █ [head=3]К[/head][bold]орпус [head=3]М[/head]орской [head=3]П[/head]ехоты[/bold]    [bold]Форма:  [/bold]M-XXX
+▀▄▄▀ █ ▀█ [italic]КСША "Алмайер"; 4-ая рота "Падающие Соколы"[/color][/italic]
+▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀
+[head=1]Название документа[/head]
+
+===Нижние колонтитулы====
+[color=#134975]▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬[/color]
+[color=#AAAAAA]===================================================[/color]
+[italic][color=#E41B1B]Использование данного документа в нарушение Военного Закона КМП и политики КМП США MIL-891 является нарушением федерального закона и приведет к судебному преследованию.[/color][/italic]
+[italic][bold][color=#134975]‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾[/color][/bold][/italic]
+
+НЕОГРАНИЧЕННЫЙ ДОСТУП к публичным и общим корпоративным данным
+[color=#383838]▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬[/color]
+                                [color=#a62d2d][head=3]БЕЗ ОГРАНИЧЕНИЙ[/head][/color]
+[italic][color=#872a2a]Этот документ содержит общедоступные корпоративные материалы Вестон-Ямада. Хотя неограниченные, несанкционированные изменения, неправильное использование или искажение этих данных могут привести к корректирующим корпоративным действиям.[/color][/italic]
+
+
+ТОЛЬКО ДЛЯ ВНУТРЕННЕГО ИСПОЛЬЗОВАНИЯ – Стандартный доступ сотрудников
+[color=#383838]▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬[/color]
+                     [color=#a62d2d][head=3]ВНУТРЕННЕЕ ИСПОЛЬЗОВАНИЕ[/head][/color]
+[italic][color=#872a2a]Этот документ предназначен только для внутреннего персонала Вестон-Ямада. Несанкционированный доступ к этой информации или ее распространение извне строго запрещено и может привести к дисциплинарным взысканиям, включая лишение корпоративных привилегий.[/color][/italic]
+
+КОНФИДЕНЦИАЛЬНО – Ведомственный доступ с ограниченным доступом
+[color=#383838]▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬[/color]
+                             [color=#a62d2d][head=3]КОНФИДЕНЦИАЛЬНО[/head][/color]
+[italic][color=#872a2a]Access to this document is restricted to designated departmental personnel. Unauthorized access, sharing, or reproduction of its contents will be treated as a breach of corporate policy and may result in immediate administrative and legal action.[/color][/italic]
+
+СЕКРЕТНЫЙ доступ для руководителей департаментов
+[color=#383838]▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬[/color]
+                                          [color=#a62d2d][head=3]СЕКРЕТНО[/head][/color]
+[italic][color=#872a2a]Этот документ классифицируется в соответствии с корпоративными протоколами безопасности Вестон-Ямада. Несанкционированный доступ, распространение или обсуждение его содержимого будет рассматриваться как нарушение безопасности и повлечет за собой немедленное дисциплинарное взыскание, вплоть до прекращения действия и судебного преследования.[/color][/italic]
+
+ОГРАНИЧЕННЫЙ доступ для менеджера отдела
+
+[color=#383838]▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬[/color]
+                                   [color=#a62d2d][head=3]ОГРАНИЧЕННО[/head][/color]
+[italic][color=#872a2a]Доступ к этому документу ограничен в соответствии с протоколом безопасности Вестон-Ямада "О защите информации". Несанкционированный доступ, копирование или разглашение информации повлекут за собой принятие корпоративных контрмер, включая арест активов, расторжение контракта и судебные иски против заинтересованных сторон.[/color][/italic]
+
+СОВЕРШЕННО СЕКРЕТНО – Доступ к Совету директоров
+[color=#383838]▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬[/color]
+                          [color=#a62d2d][head=3]СОВЕРШЕННО СЕКРЕТНО[/head][/color]
+[italic][color=#872a2a]Этот документ имеет гриф "СОВЕРШЕННО СЕКРЕТНО". Несанкционированный доступ, воспроизведение или распространение приведут к немедленным санкциям корпорации, включая, помимо прочего, увольнение и полную ликвидацию активов. Вестон-Ямада сохраняет абсолютную власть над всем персоналом и обеспечивает полное соблюдение оперативных мандатов.[/color][/italic]

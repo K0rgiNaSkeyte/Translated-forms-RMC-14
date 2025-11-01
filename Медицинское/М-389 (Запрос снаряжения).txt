@@ -1,0 +1,39 @@
+[color=#58B38B]█[/color][color=#ffffff]░░[/color][color=#5B97BC]█ [color=#58B38B]█▄[/color] █[/color] [head=3]К[/head][bold]орпус [head=3]М[/head]орской [head=3]П[/head]ехоты[/bold]     [bold]Форма:  [/bold][color=#ff0000]M-389[/color]
+[color=#5B97BC]▀▄▄[color=#58B38B]▀[/color] █[/color] [color=#58B38B]▀█[/color] [color=#AAAAAA][italic]КСША "Алмайер"; 4-ая рота "Падающие Соколы"[/color][/italic]
+[color=#58B38B]▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀[/color]           
+[head=1][color=#5B97BC]        Запрос снаряжения[/color][/head]
+[italic]Эта форма используется для документирования выданных медицинских принадлежностей, распределенных по подразделениям в начале операции.[/italic]
+[color=#58B38B]▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬[/color]
+[bold]ДЕТАЛИ:[/bold]
+[bold]Имя и фамилия:[/bold] [form]
+[bold]Звание:[/bold] [form]
+[bold]Должность:[/bold] [form]
+[bold]Отряд:[/bold] [form]
+
+[bold]Причина запроса:[/bold]
+[italic][form][/italic]
+[color=#58B38B]▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬[/color]
+[bold]ЗАПРОШЕННЫЕ МАТЕРИАЛЫ:[/bold] 
+
+[bold][MED-001][/bold] [form] | Кол-во: [form]
+[bold][MED-002][/bold] [form] | Кол-во: [form]
+[bold][MED-003][/bold] [form] | Кол-во: [form]
+[bold][MED-004][/bold] [form] | Кол-во: [form]
+[bold][MED-005][/bold] [form] | Кол-во: [form]
+[bold][MED-006][/bold] [form] | Кол-во: [form]
+[bold][MED-007][/bold] [form] | Кол-во: [form]
+[bold][MED-008][/bold] [form] | Кол-во: [form]
+
+[color=#58B38B]▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬[/color]
+                                     [head=3]- ПОДТВЕРЖДЕНИЕ -[/head]
+[bullet] Этот запрос на поставку медикаментов был тщательно рассмотрен, проверен на точность и одобрен в соответствии с медицинскими и логистическими протоколами КМП США.
+[bullet] Любые несоответствия или неправильное использование материалов будут подлежать расследованию в соответствии с Военным Законом КМП США.
+
+[bold]Запрошено:[/bold]
+[color=#1b67a5][italic][signature][/italic][/color]
+
+[bold]Выдано:[/bold]
+[color=#1b67a5][italic][signature][/italic][/color]
+
+[color=#AAAAAA]===================================================[/color]
+[italic][color=#E41B1B]Использование данного документа в нарушение Военного Закона КМП и политики КМП США MIL-891 является нарушением федерального закона и приведет к судебному преследованию.[/color][/italic]

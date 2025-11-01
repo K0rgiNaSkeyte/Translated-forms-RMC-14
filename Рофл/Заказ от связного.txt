@@ -1,0 +1,60 @@
+[color=#383838]▄[/color][color=#ffffff]░░░[/color][color=#383838]▄[/color]                                                                           [bold]Форма: [/bold][color=#ff0000]CL-398[/color]
+[color=#eb7a23]█[/color][color=#383838]▀[/color][color=#eb7a23]▄[/color][color=#383838]▀[/color][color=#eb7a23]█[/color]  [head=1]Вестон-Ямада[/head]   
+[color=#ffffff]░[/color][color=#eb7a23]█[/color][color=#383838]░[/color][color=#eb7a23]█[/color]      [head=3]Форма заказа пиццы[/head]
+[color=#383838]▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄[/color]
+[color=#eb7a23]▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀[/color]
+[head=2]Относящаяся к делу информация[/head]
+
+[head=3][bolditalic]Код срочности: [/bolditalic][color=red]КРАСНЫЙ[/color][/head]
+
+[bolditalic]Заказавший связной: [/bolditalic][color=#25b266][signature][/color]
+     [italic]Адрес доставки: [/italic][color=#1b67a5]КСША "Алмайер", ZPT-404[/color]
+
+[bolditalic]Адресат заказа:[/bolditalic] Pizza Galaxy, Outpost Zeta, LV-759 Hybrisa Prospera
+[bolditalic]Номер телефона: [/bolditalic](690) 825-1979
+
+[bolditalic]Заказ пиццы (Пожалуйста, измените количество при необходимости)[/bolditalic]
+     [bullet](x1) [bold][form][/bold]
+     [italic]Дополнительные начинки (если есть):[/italic] [form]
+     [bullet]( ) [bold][form][/bold]
+     [italic]Дополнительные начинки (если есть):[/italic] [form]
+     [bullet]( ) [bold][form][/bold]
+     [italic]Дополнительные начинки (если есть):[/italic] [form]
+     [bullet]( ) [bold][form][/bold]
+     [italic]Дополнительные начинки (если есть):[/italic] [form]
+
+[bolditalic]Дополнительные блюда (если есть):[/bolditalic] [italic][form][/italic]
+[bolditalic]Напитки (если есть): [/bolditalic][italic][form][/italic]
+
+[bolditalic]Причина запроса:[/bolditalic] [italic][form][/italic]
+[bolditalic]Инструкция по доставке:[/bolditalic] [italic][form][/italic]
+[color=#eb7a23][italic]▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬[/italic][/color]
+[head=2]Информация о платеже[/head]
+
+[bolditalic]Заказ оформлен: [/bolditalic][color=#25b266][signature][/color]
+
+[bolditalic]Процент чаевых (если имеются): [/bolditalic] [form]%
+
+[bolditalic]Метод оплаты[/bolditalic]
+     [bullet][italic]Наличные: [/italic]([form])
+     [bullet][italic]По кредитной карте: [/italic]([form])
+     [bullet][italic]По дебетовой карте: [/italic]([form])
+     [bullet][italic]Альтернативный метод (пожалуйста, укажите): [/italic][form] ([form])
+
+[color=#eb7a23][italic]▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬[/italic][/color]
+[head=2]Освобождение от юридических прав и ответственности[/head]
+
+[italic]Подписывая эту форму, ответственный за оформление заказа, Плательщик и любые физические лица, которые потребляют любые продукты, поставляемые выбранной сетью ресторанов, подтверждают, что корпорация Вестон-Ямада и выбранная сеть пиццерий освобождаются от любых обязательств, возникающих в связи с потреблением поставляемых продуктов питания. Это включает, но не ограничивается:[/italic]
+     [bullet]Аллергия на еду
+     [bullet]Неправильное обращение с продуктами
+     [bullet]Неготовые блюда,
+     [bullet]Инциденты, вызванные доставщиками и другим персоналом
+
+[italic]Если у вас есть какие-либо вопросы или жалобы, пожалуйста, свяжитесь с соответствующим отделом обслуживания клиентов. [/italic]
+[italic][bold][color=#eb7a23]‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾[/color][/bold][/italic]
+[bold]Подписано,[/bold]
+[color=#AA8760][signature] | [italic]КСША Алмайер[/italic][/color]
+[color=#eb7a23][bolditalic]Вестон-Ямада[/color] Отдел Специальных Услуг[/bolditalic]
+[color=#383838]▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬[/color]
+                            [color=#a62d2d][head=3]КОНФИДЕНЦИАЛЬНО[/head][/color]
+[italic][color=#872a2a]Доступ к этому документу ограничен специально назначенным персоналом отдела. Несанкционированный доступ, совместное использование или воспроизведение его содержимого будет рассматриваться как нарушение корпоративной политики и может привести к немедленному административному и судебному преследованию.[/color][/italic]

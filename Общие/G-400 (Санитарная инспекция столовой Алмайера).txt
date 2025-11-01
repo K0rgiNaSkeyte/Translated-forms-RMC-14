@@ -1,0 +1,44 @@
+[color=#bbaea9]█[/color][color=#ffffff]░░[/color][color=#5f698a]█ [color=#bbaea9]█▄[/color] █[/color] [head=3]К[/head][bold]орпус [head=3]М[/head]орской [head=3]П[/head]ехоты[/bold]      [bold]Форма:  [/bold][color=#ff0000]G-400[/color]
+[color=#5f698a]▀▄▄[color=#bbaea9]▀[/color] █[/color] [color=#bbaea9]▀█[/color] [color=#AAAAAA][italic]КСША "Алмайер"; 4-ая рота "Падающие Соколы"[/color][/italic]
+[color=#6e6e6e]▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀[/color]
+          [head=1]Санитарная инспекция 
+      столовой "Алмайера"[/head]
+[color=#5f698a][italic]▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬[/italic][/color]
+[head=2]Чек-лист[/head]
+[italic]Укажите "Да"(✓), "Нет"(✕) или "Не уверены"(?) в полях ниже.[/italic]
+[color=grey]-----------------------------------------------------------------------------------------[/color]
+[head=3]Хранение продуктов[/head]
+[bullet]Продукты хранятся на высоте не менее 2-ух метров над землей: [color=red][form] [/color]
+[bullet]Соответствующие продукты хранятся в холодильнике: [color=red][form] [/color]
+[bullet]Ингредиенты и продукты хранятся в чистых помещениях: [color=red][form] [/color]
+[bullet]Готовые к употреблению продукты хранятся отдельно от сырого мяса: [color=red][form] [/color]
+
+[head=3]Приготовление и обработка пищевых продуктов[/head]
+[bullet]Во время приготовления продукты должны находится на чистых поверхностях: [color=red][form] [/color]
+[bullet]Работники столовой моют руки до и после приготовления пищи и обращения с ней: [color=red][form] [/color]
+[bullet]Работники столовой при исполнении служебных обязанностей соблюдают чистоту и находятся в добром здравии: [color=red][form] [/color]
+[bullet]Распущенные или длинные волосы закреплены для предотвращения загрязнения: [color=red][form] [/color]
+[bullet]Все продукты питания поставляются из проверенных источников: [color=red][form] [/color]
+[bullet]Сырые продукты готовятся при температуре 71°C для мясного фарша и яиц, 74°C для птицы и 63°C для стейков, отбивных и жаркого: [color=red][form] [/color]
+
+[head=3]Санитарные нормы[/head]
+[bullet]Посуда чистая, без каких-либо разливов или беспорядка: [color=red][form] [/color]
+[bullet]Беспорядок хорошо организован, и им легко управлять: [color=red][form] [/color]
+[bullet]Все отходы правильно утилизируются соответствующим образом: [color=red][form] [/color]
+[bullet]Имеется чистая питьевая вода: [color=red][form] [/color]
+[bullet]Присутствует достаточное освещение: [color=red][form] [/color]
+[bullet]Никаких вредителей нет: [color=red][form] [/color]
+[bullet]Опасные и ядовытые элементы не находятся на кухне и рядом с едой: [color=red][form] [/color]
+[color=#5f698a][italic]▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬[/italic][/color]
+[head=2]Заключение[/head]
+
+[bold]Комментарии инспектора: [/bold][color=red][italic][form][/italic][/color]
+
+[bold]Итоговый рейтинг: [/bold][color=red][form][/color][bold]/17[/bold]
+[italic]Укажите общее количество нарушений на "[form]".[/italic]
+
+     [bold]Постановление: [/bold][bold][color=#25b266]ПРОЙДЕНО ( [form] ) [/color]/ [color=red]ПРОВАЛЕНО ( [form] ) [/color][/bold]
+
+[bold]Рекомендуемые действия: [/bold][color=red][italic][form][/italic][/color]
+
+[bold]Подпись инспектора: [/bold][color=#1b67a5] [signature][/color]

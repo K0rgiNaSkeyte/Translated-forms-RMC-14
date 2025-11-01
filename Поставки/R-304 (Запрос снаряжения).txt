@@ -1,0 +1,36 @@
+[color=#b18644]█[/color][color=#ffffff]░░[/color][color=#abb089]█ [color=#b18644]█▄[/color] █[/color] [head=3]К[/head][bold]орпус [head=3]М[/head]орской [head=3]П[/head]ехоты[/bold]      [bold]Форма:  [/bold][color=#ff0000]R-304[/color]
+[color=#abb089]▀▄▄[color=#b18644]▀[/color] █[/color] [color=#b18644]▀█[/color] [color=#AAAAAA][italic]КСША "Алмайер"; 2nd Company "Falling Falcons"[/color][/italic]
+[color=#b18644]▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀[/color]
+            [head=1][color=#b18644]Запрос снаряжения[/color][/head]
+
+[head=2][bold]Запрашивающий[/bold][/head]
+[bold]Имя и фамилия:[/bold] [form]
+[bold]Звание:[/bold] [form]
+[bold]Должность:[/bold] [form]
+[bold]Снаряжение запрашивается из склада отдела:[/bold] [form]
+
+[head=2]Запрашиваемое снаряжение[/head]
+[bold]Запрашиваемое вооружение:[/bold]
+[bullet] [form]
+[bullet] [form] 
+
+[bold]Запрашиваемые обвесы:[/bold]
+[bullet] [form]
+[bullet] [form]
+[bullet] [form]
+[bullet] [form]
+
+[bold]Запрашиваемые боеприпасы:[/bold]
+[bullet] [form]
+[bullet] [form] 
+
+[bold]Дополнительные запросы:[/bold] [form]
+[italic][bold][color=#134975]‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾[/color][/bold][/italic]
+Запрошено,
+[color=#1b67a5][italic][signature][/italic][/color]
+
+Утверждено, 
+[color=#1b67a5][italic][signature][/italic][/color]
+
+[color=#AAAAAA]===================================================[/color]
+[italic][color=#E41B1B]Использование данного документа в нарушение Военного Закона КМП и политики КМП США MIL-891 является нарушением федерального закона и приведет к судебному преследованию.[/color][/italic]

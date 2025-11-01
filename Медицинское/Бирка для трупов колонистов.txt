@@ -1,0 +1,9 @@
+[color=#cb0000]▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬[/color]
+[color=#cb0000]►[/color]        [head=3][bold]ЭВАКУАЦИОННАЯ БИРКА[/head][/bold]          [color=#cb0000]◄[/color]
+[color=#cb0000]▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬[/color]
+[bold]Личность умершего:[/bold] [form]
+[bold]Должность умершего:[/bold] Colonist
+           [bold]Причина смерти:[/bold] XX-121
+     [bold]Выдано:[/bold] [signature]
+[italic][color=#f39f27]Все попытки реанимации умершего не увенчались успехом.[/italic][/color]
+[italic]Умершие должны быть доставлены на борт КСША "Алмайер" и обработаны.[/italic]

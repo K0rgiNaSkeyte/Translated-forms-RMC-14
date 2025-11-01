@@ -1,0 +1,33 @@
+[color=#b18644]█[/color][color=#ffffff]░░[/color][color=#abb089]█ [color=#b18644]█▄[/color] █[/color] [head=3]К[/head][bold]орпус [head=3]М[/head]орской [head=3]П[/head]ехоты[/bold]      [bold]Форма:  [/bold][color=#ff0000]R-389[/color]
+[color=#abb089]▀▄▄[color=#b18644]▀[/color] █[/color] [color=#b18644]▀█[/color] [color=#AAAAAA][italic]КСША "Алмайер"; 4-ая рота "Падающие Соколы"[/color][/italic]
+[color=#b18644]▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀[/color]
+   [head=1][color=#b18644]Запрос снаряжения 
+                       из отдела поставок[/color][/head]
+
+[bold]Информация о запросившем:[/bold]
+[bold]Имя и фамилия: [/bold][form]
+[bold]Звание: [/bold][form]
+[bold]Должность: [/bold][form]
+
+[bold]Запрашиваемый(-ые) предмет(-ы)[/bold]:
+[bullet] [form]
+[bullet] [form]
+[bullet] [form]
+[bullet] [form]
+[bullet] [form]
+[bullet] [form]
+
+[bold]Причина для запроса:[/bold]
+[italic][form][/italic]
+
+[italic][bold][color=#134975]‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾[/color][/bold][/italic]
+[italic][bullet]Я понимаю, что все запрошенное оборудование должно использоваться ответственным и необходимым образом. 
+[bullet]Я подтверждаю, что все запрашиваемое оборудование необходимо для работы. 
+[bold]Запрошено,[/bold]
+[color=#1b67a5][italic][signature][/italic][/color]
+
+[bold]Выдано,[/bold]
+[color=#1b67a5][italic][signature][/italic][/color]
+[italic][bold][color=#134975]‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾[/color][/bold][/italic]
+[italic][color=#E41B1B]Использование данного документа в нарушение Военного Закона КМП и политики КМП США MIL-891 является нарушением федерального закона и приведет к судебному преследованию.[/color][/italic]
+

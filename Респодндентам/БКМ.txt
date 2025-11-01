@@ -1,0 +1,26 @@
+[color=#bbb]██████████████████████████████████████████
+██[color=#ccc]██[color=#611]████████[color=#ccc]██[color=#611]████[color=#ccc]██████[color=#611]████[color=#ccc]██[color=#611]████████[color=#ccc]██[color=#bbb]██
+██[color=#ccc]██[color=#611]██[color=#ccc]████████[color=#611]██[color=#ccc]██[color=#611]██[color=#ccc]██[color=#611]██[color=#ccc]██[color=#611]██[color=#ccc]██[color=#611]██[color=#ccc]████[color=#611]██[color=#ccc]██[color=#bbb]██
+██[color=#ccc]██[color=#611]██[color=#ccc]████████[color=#611]██[color=#ccc]██[color=#611]██[color=#ccc]██[color=#611]██[color=#ccc]██[color=#611]██[color=#ccc]██[color=#611]████[color=#ccc]██[color=#611]██[color=#ccc]██[color=#bbb]██
+██[color=#ccc]██[color=#611]██[color=#ccc]████████[color=#611]██[color=#ccc]████[color=#611]██[color=#ccc]████[color=#611]██[color=#ccc]██[color=#611]██[color=#ccc]██[color=#611]████[color=#ccc]██[color=#bbb]██
+██[color=#ccc]██[color=#611]██[color=#ccc]████████[color=#611]██[color=#ccc]████[color=#611]██[color=#ccc]████[color=#611]██[color=#ccc]██[color=#611]██[color=#ccc]████[color=#611]██[color=#ccc]██[color=#bbb]██
+[color=#888]██[color=#bbb]██[color=#611]████████[color=#ccc]██[color=#611]██[color=#ccc]████[color=#611]██[color=#ccc]████[color=#611]██[color=#ccc]██[color=#611]██████[color=#ccc]██[color=#bbb]██[color=#888]██
+████[color=#bbb]██████[color=#ccc]██████████████████████[color=#bbb]██████[color=#888]████
+[color=#0000]██[color=#888]██████████████[color=#bbb]██████████[color=#888]██████████████[color=#0000]██
+████████████████[color=#888]██[color=#bbb]██████[color=#888]██[color=#0000]████████████████
+██████████████████[color=#888]██████[color=#0000]██████████████████[/color]
+
+            [head=1]Корреспонденция БКМ[/head]
+[color=#681f1f]▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄[/color]
+[bolditalic]Адресант: [/bolditalic][color=red][sign][/color]
+[bolditalic]Адресат: [/bolditalic][color=red][form], UNS Almayer[/color]
+[bolditalic]Тема: [/bolditalic][color=red][form][/color]
+[color=#681f1f]▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀[/color][color=#000]
+[italic]Приветствуем [form],
+[form]
+
+с уважением,[/italic]
+[bold][color=#9d3737][sign][/color]
+Региональная штаб-квартира БКМ, г. Калдерон, сектор Зайферон, Внешняя Завеса[/bold]
+[color=#681f1f]▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬[/color]
+[color=#acadad][bullet][italic]Подлинность этого документа должна быть подтверждена использованием штампа БКМ.[/italic]

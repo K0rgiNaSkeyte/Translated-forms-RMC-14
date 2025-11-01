@@ -1,0 +1,60 @@
+[color=#b18644]█[/color][color=#ffffff]░░[/color][color=#abb089]█ [color=#b18644]█▄[/color] █[/color] [head=3]К[/head][bold]орпус [head=3]М[/head]орской [head=3]П[/head]ехоты [/bold] [bold]Форма: [/bold][color=#ff0000]R-315[/color]
+[color=#abb089]▀▄▄[color=#b18644]▀[/color] █[/color] [color=#b18644]▀█[/color] [color=#AAAAAA][italic]КСША "Алмайер"; 4-ая рота "Падающие Соколы"[/color][/italic]
+[color=#b18644]▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄[/color]
+[color=#abb089]▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀[/color]
+
+[head=1][color=#dfc189]         ОТЧЕТ О РАСХОДАХ[/color][/head]
+                                      [bold]ОПЕРАЦИЯ №XXXXX[/bold]
+
+[italic]В этом документе приводится сводная информация обо всех расходах на закупку, понесенных в ходе операции. Отдельные списки поставок прилагаются для справочных целей и аудита.[/italic]
+[color=#b18644]▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬[/color]
+[bold]СЕКЦИЯ ОДИН: ДЕТАЛИ[/bold]
+
+[bold]Название операции:[/bold] [italic][form][/italic]
+[bold]Всего потрачено денег из бюджета: [color=red]$[form][/color][/bold]
+[bold]Заработанно денег в бюджет: [color=green]$[form] [/color][/bold]
+[bold]Всего сброшено посылок: [form] [/bold]
+
+[color=#b18644]▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬[/color]
+[bold]СЕКЦИЯ ДВА: РАСПРЕДЕЛЕНИЕ[/bold]
+
+[bold]Отрядные расходы:[/bold]
+[bold][color=#ff0000]Альфа:[/bold][/color][color=red] $[form] [/color]
+[bold][color=#f39f27]Браво:[/bold][/color][color=red] $[form] [/color]
+[bold][color=#c96dbf]Чарли:[/bold][/color][color=red] $[form] [/color]
+[bold][color=#1b67a5]Дельта:[/bold][/color][color=red] $[form] [/color]
+[bold][color=#49ffab]Эхо:[/bold][/color][color=red] $[form] [/color]
+
+[color=#b18644]▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬[/color]
+[bold]СЕКЦИЯ ТРИ: СБРОСЫ[/bold]
+
+[bold]Количество сброшенных отрядам посылок:[/bold]
+[bold][color=#ff0000]Альфа:[/bold][/color] [form]
+[bold][color=#f39f27]Браво:[/bold][/color] [form]
+[bold][color=#c96dbf]Чарли:[/bold][/color] [form]
+[bold][color=#1b67a5]Дельта:[/bold][/color] [form]
+[bold][color=#49ffab]Эхо:[/bold][/color] [form]
+
+[color=#b18644]▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬[/color]
+[bold]СЕКЦИЯ ЧЕТЫРЕ: ПРИМЕЧАНИЯ[/bold]
+
+[bold]Примечания докладывающего офицера:[/bold]
+[italic][form][/italic]
+
+[bold]Примечания рассматривающего офицера:[/bold]
+[italic][form][/italic]
+
+[color=#b18644]▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬[/color]
+                                    [head=3]- ПОДТВЕРЖДЕНИЕ -[/head]
+
+[bullet] Этот отчет о расходах на закупку был рассмотрен, проверен и утвержден в соответствии с протоколом материально-технического обеспечения КМП США.
+[bullet] Любые расхождения, нарушения или неправомерное использование средств/ресурсов будут предметом официального расследования по Военному Закону КМП.
+
+[bold]Подготовлено:[/bold]
+[color=#1b67a5][italic][signature][/italic][/color]
+
+[bold]Рассмотрено:[/bold]
+[color=#1b67a5][italic][signature][/italic][/color]
+
+[color=#AAAAAA]===================================================[/color]
+[italic][color=#E41B1B]Несанкционированное вмешательство, фальсификация или ненадлежащее использование реквизированных ресурсов является прямым нарушением Военного Закона КМП и политики КМП США MIL-891. Нарушители будут немедленно привлечены к дисциплинарной ответственности и, возможно, к судебному преследованию.[/color][/italic]
