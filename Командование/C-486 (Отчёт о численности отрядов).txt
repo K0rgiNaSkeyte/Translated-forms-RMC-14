@@ -19,10 +19,9 @@
 [bold]Стрелков:[/bold] [form]
 [bold]Боевых техников:[/bold] [form]
 [bold]Санитаров Госпиталя:[/bold] [form]
-[bold]Командиры Огневых Групп:[/bold] [check] [check]
-[bold]Оператор Смартгана:[/bold] [check]
-[bold]Специалист:[/bold] [check] 
-[italic]Набор: [form][/italic]
+[bold]Командиры Огневых Групп:[/bold] [form]
+[bold]Операторы Смартгана:[/bold] [form]
+[bold]Специалисты:[/bold] [form] 
 
 [bold]Общее число:[/bold] [form]
 [italic][bold][color=#134975]‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾[/color][/bold][/italic]
