@@ -13,7 +13,7 @@
 [color=#1b67a5]▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬[/color]
 [bold]Наград(-а/-ы) на которые рекомендуется:[/bold]
 < [check] > [color=Plum]Медаль "Бронзовое Сердце"[/color]
-< [check] > [color=LightSalmon]Медаль "За Выдающееся Поведение"[/color]
+< [check] > [color=LightSalmon]Медаль "За Выдающиеся Заслуги"[/color]
 < [check] > [color=LightSteelBlue]Медаль "За Отвагу"[/color]
 < [check] > [color=Goldenrod]Медаль "За Исключительный Героизм"[/color]
 [bold]Посмертно:[/bold] ДА <  [check]  >    НЕТ <  [check]  >  
